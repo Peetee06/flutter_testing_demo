@@ -8,3 +8,4 @@ jobs:
     with:
       flutter_channel: 'stable'
       flutter_version: '3.29.3'
+      min_coverage: 80
